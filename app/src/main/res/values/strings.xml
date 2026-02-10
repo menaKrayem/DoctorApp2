@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">DoctorApp</string>
+    <string name="login">Login</string>
+    <string name="Welcome">Welcome back!</string>
+    <string name="Email">Email Address</string>
+    <string name="Password">Password</string>
+    <string name="ConfirmPassword">Confirm Password</string>
+    <string name="gender">Gender:</string>
+    <string name="Remember">Remember me</string>
+    <string name="forgetPass">forget Password?</string>
+    <string name="start">Get Started</string>
+    <string name="sentence">Dont have an account?</string>
+    <string name="SignUp">Sign up</string>
+
+    <string name="onbord1text">Choose an efficient caregiver</string>
+    <string name="onbordpar">
+        Lorem ipsum dolor sit amet consectetur Adipiscing
+        nulla gravida aliquam faucibus egestas fames
+        placerat a magnis. Etiam
+    </string>
+    <string name="onbord2text">Discounts and offers</string>
+    <string name="onbord3text">Different payment methods</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="myemail">MenaKrayem@gmail.com</string>
+    <string name="myname">MenaKrayem</string>
+    <string name="Specializations">Specializations</string>
+    <string name="booknow">Book Now</string>
+    <string name="fullName">Full Name</string>
+    <string name="Male">Male</string>
+    <string name="phone">Phone</string>
+    <string name="Female">Female</string>
+    <string name="teeth">Teeth</string>
+    <string name="eyes">Eyes</string>
+    <string name="kidnys">Kidnys</string>
+    <string name="brain">Brain</string>
+    <string name="lungs">Lungs</string>
+    <string name="intestine">Intestine</string>
+    <string name="Top_caregivers">Top Caregivers</string>
+    <string name="doctorName">Mohammad S.Duhier</string>
+    <string name="specializeName">Brain Doctor</string>
+    <string name="Overview">Overview</string>
+    <string name="rate">4.5</string>
+    <string name="paroverview">
+        Lorem ipsum dolor sit amet consectetur. Luctus erat erat nisi pharetra amet tristique mi porttitor.
+        In posuere pharetra porttitor nullam amet est pretium et quis.
+        Ac egestaspharetra amet tristique mi porttitor. In posuere pharetra.
+    </string>
+    <string name="Contactus">Contact Us</string>
+    <string name="starprofile"></string>
+    <string name="logout">Logout</string>
+    <string name="setting">Setting</string>
+    <string name="ratingapp">Rate App</string>
+    <string name="myappointment">My Appointment</string>
+    <string name="profile">profile</string>
+    <string name="date">24 october 2025</string>
+    <string name="time">5:00 pm</string>
+    <string name="state">complete</string>
+    <string name="cancle">Cancle</string>
+    <string name="editprofile">Edit Profile</string>
+    <string name="save">Save Changes</string>
+    <string name="worktime">Work Time</string>
+    <string name="timedetalies">Sunday to Friday || 9:00am - 7:00pm</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    // فصل جديد
+    <string name="seeall">See All</string>
+    <string name="hello">Hello!</string>
+    <string name="username">User Name </string>
+    <string name="ArticlesTips">Articles &amp;Tips</string>
+</resources>
